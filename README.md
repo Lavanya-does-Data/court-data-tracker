@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Court Data Tracker
 
 A simple Flask web app to search for legal cases and display case details.
@@ -22,3 +23,6 @@ A simple Flask web app to search for legal cases and display case details.
 ## Screenshots
 ![Home Page](screenshots/home_page.png)
 ![Result Page](screenshots/result_page.png)
+=======
+# court-data-tracker
+>>>>>>> 2d23c3f2910f28183528a77461c0104ffb0e384a
